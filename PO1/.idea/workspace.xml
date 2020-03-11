@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a588a66-dbcb-4d9a-9c39-128aef886599" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YM17pBqBqt1UvqqTVRBot1lPIF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/Proga" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/Calc/Run.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Calc" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ColcTestKek">
+    <configuration name="Main (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calc.Main" />
+      <module name="PO1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PO1" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calc" />
+      <option name="MAIN_CLASS_NAME" value="Calc.ColcTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColcTestKek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PO1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calc" />
+      <option name="MAIN_CLASS_NAME" value="Calc.ColcTestKek" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PO1" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calc" />
+      <option name="MAIN_CLASS_NAME" value="Calc.ColcTest" />
+      <option name="METHOD_NAME" value="sum" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColcTest.mult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PO1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calc" />
+      <option name="MAIN_CLASS_NAME" value="Calc.ColcTest" />
+      <option name="METHOD_NAME" value="mult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PO1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Calc" />
+      <option name="MAIN_CLASS_NAME" value="Calc.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ColcTestKek" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.ColcTest" />
+        <item itemvalue="JUnit.ColcTest" />
+        <item itemvalue="JUnit.ColcTest.mult" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a588a66-dbcb-4d9a-9c39-128aef886599" name="Default Changelist" comment="" />
+      <created>1582737498102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582737498102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="93" key="#Auto_Import" timestamp="1582797631384">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="93" key="#Auto_Import/0.0.1536.864@0.0.1536.864" timestamp="1582797631384" />
+    <state x="395" y="91" width="814" height="773" key="#Intentions" timestamp="1582798229057">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="91" width="814" height="773" key="#Intentions/0.0.1536.864@0.0.1536.864" timestamp="1582798229057" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582797886740">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1582797886740" />
+    <state x="548" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582793206489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582793206489" />
+    <state x="441" y="122" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582793422652">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="441" y="122" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582793422652" />
+    <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582797874586">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1582797874586" />
+    <state x="596" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1582739636490">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="596" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1582739636490" />
+    <state x="526" y="189" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582789571575">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="526" y="189" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1582789571575" />
+    <state x="168" y="120" width="1200" height="624" key="DiffContextDialog" timestamp="1582765864871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="168" y="120" width="1200" height="624" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1582765864871" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1583938250662">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583938250662" />
+    <state width="1125" height="132" key="GridCell.Tab.0.bottom" timestamp="1582798406179">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1125" height="132" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582798406179" />
+    <state width="1125" height="132" key="GridCell.Tab.0.center" timestamp="1582798406178">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1125" height="132" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582798406178" />
+    <state width="1125" height="132" key="GridCell.Tab.0.left" timestamp="1582798406178">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1125" height="132" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582798406178" />
+    <state width="1125" height="132" key="GridCell.Tab.0.right" timestamp="1582798406179">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1125" height="132" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582798406179" />
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1582757717622">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582757717622" />
+    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1582757717622">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1582757717622" />
+    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1582757717622">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1582757717622" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1582757717622">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582757717622" />
+    <state x="277" y="14" key="SettingsEditor" timestamp="1582797442189">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="14" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582797442189" />
+    <state x="470" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582989409118">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582989409118" />
+    <state x="526" y="333" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582797413752">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="526" y="333" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1582797413752" />
+    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582798119009">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1582798119009" />
+    <state x="209" y="53" key="new project wizard" timestamp="1582797521038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1582797521038" />
+    <state x="425" y="199" key="run.anything.popup" timestamp="1582739734408">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="199" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582739734408" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Calc/Main.java</url>
+          <line>3</line>
+          <properties class="Calc.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Calc/Run.java</url>
+          <line>8</line>
+          <properties class="Calc.Run" method="start">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Calc/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Calc/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Calc/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Calc/Run.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PO1$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1582757428506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Calc.*</FILTER>
+    </SUITE>
+  </component>
+</project>
