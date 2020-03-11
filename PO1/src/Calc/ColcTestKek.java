@@ -40,5 +40,7 @@ public class ColcTestKek {
         double res = func.Diff(2);
         excepted = 0;
         Objects.equals(excepted, res);
+
+        //for develop
     }
 }
